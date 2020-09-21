@@ -1,0 +1,11 @@
+al = 23 ;
+kom = -23 ;
+mah = 69 ;
+geo = 112.5 ;
+ell = -2292 ;
+jia = -9 ;
+ral = 0 ;
+aiz = 407 ;
+mik = -66 ;
+moh = invalid
+jai = 5250 ;
